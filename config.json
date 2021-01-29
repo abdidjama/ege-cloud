@@ -1,9 +1,9 @@
 {
     "database": {
-        "host": "dalabexport.postgres.database.azure.com",
+        "host": "djibsoft.postgres.database.azure.com",
         "dbname": "postgres",
-        "user": "djamafarah@dalabexport",
-        "password": "Dalab2020*",
+        "user": "abdillahali",
+        "password": "Waberi2020*",
         "ssl": "require"
     }
 }
